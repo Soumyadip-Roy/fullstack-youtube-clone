@@ -4,8 +4,7 @@
 import connectDB from "./db/db.js";
 import dotenv from "dotenv";
 
-// import express from "express";
-// const app = express();
+import {app} from "./app.js"
 
 // Approach 01
 // (async () => {
